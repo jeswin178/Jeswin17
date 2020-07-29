@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+For more information about me (and a whole lot of shenanigans), connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/) 🌏
 
 [![Jeswin17's github stats](https://github-readme-stats.vercel.app/api?username=Jeswin17&show_icons=true&theme=radical)](https://github.com/Jeswin17/github-readme-stats)
